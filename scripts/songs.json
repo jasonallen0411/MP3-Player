@@ -1,0 +1,59 @@
+{"songs":[
+	{
+		"songName":"Corporate Success",
+		"artistName":"Scott Holmes",
+		"Duration":"02:47",
+		"Album":"unknown",
+		"albumArt":"images/bank.jpg",
+		"url":"audio/Scott_Holmes_-_01_-_Corporate_Success.mp3"
+	},
+	{
+		"songName":"Corporate Uplifting",
+		"artistName":"Scott Holmes",
+		"Duration":"01:52",
+		"Album":"unknown",
+		"albumArt": "images/business.jpg",
+		"url":"audio/Scott_Holmes_-_03_-_Corporate_Uplifting.mp3"
+	},
+	{
+		"songName":"Corporate Innovative",
+		"artistName":"Scott Holmes",
+		"Duration":"02:35",
+		"Album":"unknown",
+		"albumArt": "images/corporate.jpg",
+		"url":"audio/Scott_Holmes_-_04_-_Corporate_Innovative.mp3"
+	},
+	{
+		"songName":"Corporate Presentation",
+		"artistName":"Scott Holmes",
+		"Duration":"04:25",
+		"Album":"unknown",
+		"albumArt": "images/money.jpg",
+		"url":"audio/Scott_Holmes_Music_-_05_-_Corporate_Presentation.mp3"
+	},
+	{
+		"songName":"Corporate Technology",
+		"artistName":"Scott Holmes",
+		"Duration":"02:18",
+		"Album":"unknown",
+		"albumArt": "images/office.jpg",
+		"url":"audio/Scott_Holmes_-_06_-_Corporate_Technology.mp3"
+	},
+	{
+		"songName":"Corporate Advertisement",
+		"artistName":"Scott Holmes",
+		"Duration":"02:54",
+		"Album":"unknown",
+		"albumArt": "images/succes.jpg",
+		"url":"audio/Scott_Holmes_-_07_-_Corporate_Advertisement.mp3"
+	},
+
+	{
+		"songName":"Corporate Vision",
+		"artistName":"Scott Holmes",
+		"Duration":"02:37",
+		"Album":"unknown",
+		"albumArt": "images/work.jpg",
+		"url":"audio/Scott_Holmes_-_08_-_Corporate_Vision.mp3"
+	}
+]}

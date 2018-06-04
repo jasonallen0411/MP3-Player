@@ -1,0 +1,88 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	background-color: black;
+	}
+
+h1{
+	text-align: center;
+	color: white;
+	margin: 40px;
+}
+
+/*#images{
+	width: 100px;
+	height: 100px;
+}*/
+
+	#songs{
+		width: 400px;
+		background-color: white;
+		color: white;
+		margin: 0px auto;
+		box-shadow: 3px 3px 3px rgba(0,0,0,.5);
+	}
+
+	#songs h1{
+		font-weight: normal;
+		font-size: 20px;
+		color: blue;
+		cursor: pointer;
+	}
+
+	#songs ul li{
+		list-style: none;
+	}
+
+	.song{
+		height: 60px;
+		overflow: hidden;
+		padding: 0px 5px;
+		-webkit-transition: all .5s ease-out;
+		transition: all .5s ease-out;
+	}
+
+	.song:nth-child(even){
+		background-color: grey;
+		color: white;
+	}
+
+	.duration{
+		float: right;
+		color: #AAA;
+	}
+
+	.menuOpen{
+		height: 200px;
+	}
+
+	#play{
+	height: 20px;
+	width: 20px;
+	}
+
+	#pause{
+	height: 20px;
+	width: 20px;
+	}
+/*@media screen and (max-width: 955px){
+	.row{
+		display: block;
+		margin: 10px;
+	}
+
+	.col4{
+		height: 350px;
+	}
+
+}*/
+
+
+
+
+/*-webkit-transition-duration: .5s;
+	-o-transition-duration: .5s;
+	-moz-transition-duration: .5s;
+	-ms-transition-duration: .5s;
+	transition-duration: .5s;*/
+
